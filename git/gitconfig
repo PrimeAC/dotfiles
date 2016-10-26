@@ -1,10 +1,10 @@
 #
-# rtfpessoa git Configuration
+# PrimeAC git Configuration
 #
 
 # core {{{
 [core]
-  editor = vim
+  editor = subl -n -w
   pager = less -x4
   quotepath = false
   ignorecase = false
@@ -12,12 +12,8 @@
 #}}}
 # user {{{
 [user]
-  email = rtfrodrigo@gmail.com
-  name = Rodrigo Fernandes
-  signingkey = 8969078E
-
-[github]
-  user = rtfrodrigo@gmail.com
+  email = afonso.caetano@outlook.com
+  name = PrimeAC
 
 #}}}
 # color {{{
